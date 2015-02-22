@@ -2,19 +2,19 @@
 scheme: "Tron"
 author: "Beorn Facchini (http://github.com/beornf)"
 base00: "14191f" #  ----
-base01: "ff410d" #  ---
+base01: "fea63c" #  --- (orange)
 base02: "748aa6" #  --
 base03: "2f3c4d" #  -
 base04: "aec2e0" #  +
 base05: "aec2e0" #  ++
-base06: "3f6ba4" #  +++ or green
+base06: "c078f7" #  +++ (purple)
 base07: "f8f8f2" #  ++++
 
 base08: "ff410d" #	red
-base09: "1ce6d3" #	cyan
+base09: "4cbbff" #	blue
 base0A: "fea63c" #	orange
 base0B: "70e7af" #	green
 base0C: "ffd500" #	yellow
 base0D: "4cbbff" #	blue
-base0E: "f653f5" #	pink
+base0E: "f663f6" #	violet
 base0F: "fea63c" #	brown
