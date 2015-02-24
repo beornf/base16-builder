@@ -7,7 +7,7 @@ base02: "7b8da6" #  --
 base03: "323d4d" #  -
 base04: "b8c7e0" #  +
 base05: "b8c7e0" #  ++
-base06: "f56cf5" #  +++ (magenta)
+base06: "eb67eb" #  +++ (magenta)
 base07: "f7f7f2" #  ++++
 
 base08: "ff4517" #	red
@@ -16,5 +16,5 @@ base0A: "ffac47" #	orange
 base0B: "79e8b4" #	green
 base0C: "ffda0a" #	yellow
 base0D: "57c1ff" #	blue
-base0E: "f56cf5" #	magenta
+base0E: "eb67eb" #	magenta
 base0F: "ffac47" #	orange
