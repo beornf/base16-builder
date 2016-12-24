@@ -1,20 +1,20 @@
 # Tron scheme for the Base16 Builder (https://github.com/chriskempson/base16-builder)
 scheme: "Tron"
 author: "Beorn Facchini (http://github.com/beornf)"
-base00: "15191f" #  ----
-base01: "ffac47" #  --- (orange)
+base00: "14191f" #  ----
+base01: "79e8b4" #  --- (green)
 base02: "7b8da6" #  --
 base03: "323d4d" #  -
-base04: "b8c7e0" #  +
+base04: "51beff" #  +   (blue)
 base05: "b8c7e0" #  ++
 base06: "eb67eb" #  +++ (magenta)
 base07: "f7f7f2" #  ++++
 
 base08: "ff4517" #	red
-base09: "57c1ff" #	blue
+base09: "51beff" #	blue
 base0A: "ffac47" #	orange
 base0B: "79e8b4" #	green
 base0C: "ffda0a" #	yellow
-base0D: "57c1ff" #	blue
+base0D: "51beff" #	blue
 base0E: "eb67eb" #	magenta
 base0F: "ffac47" #	orange
